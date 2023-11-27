@@ -6,8 +6,10 @@ const Restaurant3 = () => {
   return (
     <div>
      <Container>
+
         <h4>Celini Mumbai</h4><br/>
         <hr/>
+        
         <h2>Celini</h2><br></br>
         <Rating name="size-medium" defaultValue={4} /> &nbsp;&nbsp;500+people review
         &nbsp;&nbsp;| &nbsp;&nbsp;#56 of 8,306 Restaurants in Mumbai&nbsp;&nbsp;|
